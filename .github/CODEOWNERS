@@ -1,6 +1,6 @@
 # Default owners for the entire repository
-* @pmaturure3 @up2136698
+* @pmaturure3 
 
 # Example: Specify owners for particular folders or file types (optional)
-/docs/ @up2136698  @pmaturure3
+/docs/ @pmaturure3
 *.py @pmaturure3 @up2136698 # for all python files
