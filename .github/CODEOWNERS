@@ -1,6 +1,6 @@
 # Default owners for the entire repository
-* @pmaturure3 
+*          @pmaturure3 
 
 # Example: Specify owners for particular folders or file types (optional)
-/docs/ @pmaturure3
-*.txt @pmaturure3
+/docs/     @pmaturure3
+*.txt      @pmaturure3
