@@ -3,4 +3,4 @@
 
 # Example: Specify owners for particular folders or file types (optional)
 /docs/ @pmaturure3
-*.py @pmaturure3 @up2136698 # for all python files
+*.py @pmaturure3
