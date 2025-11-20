@@ -1,5 +1,4 @@
-# Default owners for the entire repository
-*          @pmaturure3
+
 
 # Specify owners for the docs folder
 /docs/     @pmaturure3 @teenopmat/user-services
