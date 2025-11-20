@@ -1,1 +1,5 @@
-/docs/  @pmaturure3
+# Default owners for the entire repository
+*          @pmaturure3
+
+# Specify owners for the docs folder
+/docs/     @pmaturure3 
