@@ -1,9 +1,8 @@
 # Default owners for the entire repository
 *          @pmaturure3 
 
-# Example: Specify owners for particular folders or file types (optional)
-
+# Specify owners for particular file types
 *.txt      @pmaturure3
 
-# Example: Specify team owners for a particular folder
-/docs/     @teenopmat/user-services
+# Specify owners for the docs folder (both individual and team)
+/docs/     @pmaturure3 @teenopmat/user-services
