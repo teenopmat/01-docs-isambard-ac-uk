@@ -2,7 +2,7 @@
 *          @pmaturure3 
 
 # Example: Specify owners for particular folders or file types (optional)
-/docs/     @pmaturure3
+#/docs/     @pmaturure3
 *.txt      @pmaturure3
 
 # Example: Specify team owners for a particular folder
