@@ -6,4 +6,4 @@
 *.txt      @pmaturure3
 
 # Example: Specify team owners for a particular folder
-/docs/ @teenopmat/user-services
+/docs/     @teenopmat/user-services
